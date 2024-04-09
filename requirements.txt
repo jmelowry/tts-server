@@ -1,0 +1,6 @@
+fastapi
+torch
+uvicorn[standard]
+transformers
+pydantic
+soundfile
